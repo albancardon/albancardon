@@ -21,4 +21,4 @@ Languages and tools learned:
 
 Here, we have my different projects.
 
-You can contact me atalban.cardon@gmail.com
+You can contact me at alban.cardon@gmail.com
