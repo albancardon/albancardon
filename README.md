@@ -19,6 +19,6 @@ Languages and tools learned:
 ![12 Visual_Studio](https://github.com/albancardon/albancardon/assets/73275347/9a34d78e-7533-44ed-8203-9bb59613372f)
 
 
-Here, we have my different prodjects.
+Here, we have my different projects.
 
 You can contact me atalban.cardon@gmail.com
